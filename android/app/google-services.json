@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1095498418468",
+    "firebase_url": "https://fir-demo-a2ecd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-demo-a2ecd",
+    "storage_bucket": "fir-demo-a2ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095498418468:android:a63cd2d8699f453f3a8bb1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_axam3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095498418468-ohljfqvpnunb9q384uksr1i32dt0egb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB58CD-btsbT90Yghc6ABndi0Avctpmzo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095498418468-ohljfqvpnunb9q384uksr1i32dt0egb0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095498418468-22edt2pt8l6nafbhur0o07de7e7fcjmg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAxam3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
